@@ -1,4 +1,4 @@
-package nttdata.bootcamp.microservicios.cliente.cuenta.pasiva.kafkalistener;
+package nttdata.bootcamp.microservicios.cliente.cuenta.activa.kafkalistener;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -12,9 +12,10 @@ public class KafkaListeners {
 	private static final Logger LOGGER = LoggerFactory.getLogger(KafkaListeners.class);
 	
 	/*
-	 * @KafkaListener( topics ="ClientsgetPasiveAccounts", groupId = "groupId"
+	 * @KafkaListener( topics ="ClientsgetActiveAccounts", groupId = "groupId"
 	 * 
 	 * ) void listener(String data) { LOGGER.info("LISTENER RECEIVED " +data +
 	 * "[configured by JOFFRE HERMOSILLA SALAS]"); }
 	 */
+
 }

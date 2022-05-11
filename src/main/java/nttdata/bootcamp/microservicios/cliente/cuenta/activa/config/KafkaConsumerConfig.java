@@ -1,4 +1,4 @@
-package nttdata.bootcamp.microservicios.cliente.cuenta.pasiva.config;
+package nttdata.bootcamp.microservicios.cliente.cuenta.activa.config;
 
 import java.util.HashMap;
 import java.util.Map;

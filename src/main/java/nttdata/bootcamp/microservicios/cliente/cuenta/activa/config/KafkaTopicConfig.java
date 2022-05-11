@@ -1,4 +1,4 @@
-package nttdata.bootcamp.microservicios.cliente.cuenta.pasiva.config;
+package nttdata.bootcamp.microservicios.cliente.cuenta.activa.config;
 
 import org.apache.kafka.clients.admin.NewTopic;
 import org.springframework.context.annotation.Bean;
@@ -8,7 +8,7 @@ import org.springframework.kafka.config.TopicBuilder;
 //@Configuration
 public class KafkaTopicConfig {
 	/*
-	 * @Bean public NewTopic ClientGetPasiveeAccountTopic() { return
-	 * TopicBuilder.name("ClientsgetPasiveAccounts").build(); }
+	 * @Bean public NewTopic ClientGetActiveAccountTopic() { return
+	 * TopicBuilder.name("ClientsgetActiveAccounts").build(); }
 	 */
 }

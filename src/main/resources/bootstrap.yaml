@@ -1,6 +1,6 @@
 spring:
   application:
-    name: microservicio-cuenta-activa
+    name: microservicio-cuenta-pasiva
   cloud:
     config:
       enabled: true
@@ -13,4 +13,4 @@ spring:
     bootstrap-servers: LIM-8VD52F3.usersad.everis.int:9092     
 config:
  balanceador:
-  test: prueba balanceador de microservicio-cliente-activa
+  test: prueba balanceador de microservicio-cliente-cuenta-pasiva

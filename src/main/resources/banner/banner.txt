@@ -27,5 +27,5 @@ Joffre Hermosilla Salas
 
 
 
-MICROSERVICIO CUENTA ACTIVA
+MICROSERVICIO CUENTA PASIVA
                   

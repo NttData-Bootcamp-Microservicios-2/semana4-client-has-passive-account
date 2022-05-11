@@ -1,4 +1,4 @@
-package nttdata.bootcamp.microservicios.cliente.cuenta.activa.config;
+package nttdata.bootcamp.microservicios.cliente.cuenta.pasiva.config;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -37,4 +37,5 @@ public class KafkaProducerConfig {
 	 * kafkaTemplate(ProducerFactory<String, String> producerFactory) { return new
 	 * KafkaTemplate<>(producerFactory); }
 	 */
+
 }

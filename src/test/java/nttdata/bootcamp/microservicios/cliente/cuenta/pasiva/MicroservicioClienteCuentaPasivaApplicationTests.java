@@ -1,10 +1,10 @@
-package nttdata.bootcamp.microservicios.cliente.cuenta.activa;
+package nttdata.bootcamp.microservicios.cliente.cuenta.pasiva;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MicroservicioClienteCuentaActivaApplicationTests {
+class MicroservicioClienteCuentaPasivaApplicationTests {
 
 	@Test
 	void contextLoads() {
